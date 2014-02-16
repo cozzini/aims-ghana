@@ -3,5 +3,6 @@
 
 This is a public repo for the AIMS Ghana SWC bootcamp
 
-crated by S.Cozzini
+
+created by S.Cozzini
 
