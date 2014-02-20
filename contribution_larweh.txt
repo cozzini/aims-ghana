@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 My first collaborated work on github. This is my second update of my earlier work.
 puuuuussssssh.
+=======
+My first collaborated work on github. This is Leonard messing up Larweh's file. (: hahahahahahahaaaaa
+
+>>>>>>> 2e50cf028accec7c8bac54db58b2219ab86a49c7
