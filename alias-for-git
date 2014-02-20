@@ -6,5 +6,4 @@
 [color]
 	ui = auto
 [core]
-	excludesfile = /Users/cozzini/.gitignore_global
 	editor = nano
