@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 My first collaborated work on github.
 You need a bigger and faster pc to do this 
+=======
+My first collaborated work on github. This is Leonard messing up Larweh's file. (: hahahahahahahaaaaa
+>>>>>>> bc3e10b6519950939cbad8fb2de011e9817b32b2
 
