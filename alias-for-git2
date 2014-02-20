@@ -3,8 +3,4 @@
 	lgb = log --graph --all --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%cr)%C(reset) %C(white)%s%C(reset) %C(bold white) %cn%C(reset)%C(bold red)%d%C(reset)' --abbrev-commit --date=relative
 	lg2 = log --graph --all --format=format:'%C(bold blue)%h%C(reset) - %C(bold magenta)%cD%C(reset) %C(bold green)(%cr)%C(reset)%C(bold red)%d%C(reset)%n''          %C(white)%s%C(reset) %C(bold white) %cn%C(reset)' --abbrev-commit
 
-[color]
-	ui = auto
-[core]
 
-	editor = nano
